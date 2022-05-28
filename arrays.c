@@ -14,7 +14,7 @@ int main() {
 
 	for (i=0; i < 10; i++)
 	{
-		for(x =(i+1); i < 10; i++)
+		for(x =(i+1); x < 10; x++)
 		{
 			//i = 20; x = 10; aux;
 			if(array[i] > array[x])
